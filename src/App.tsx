@@ -12,8 +12,8 @@ import {
   CyclePlayer,
   CounterPlayer,
   AdaptivePlayer,
+  MohannedPlayer,
 } from './players';
-import { MohannedPlayer } from './players/MohannedPlayer';
 
 /**
  * STUDENTS: Import your player here and add it to the playerList array below!
